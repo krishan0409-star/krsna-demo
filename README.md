@@ -1,3 +1,3 @@
 # krsna-demo
 First Git Repository. 
-Author - Krishan Kumar
+Krishan Kumar
